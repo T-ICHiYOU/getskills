@@ -3,4 +3,4 @@ YES/
 12
 This is an additional Change.
 This is solved.
-This is the cause why we could not merge and needed to be solved. 
+This is the last conflict for merging and we have successfully solved it!
