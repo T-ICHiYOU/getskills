@@ -4,3 +4,4 @@ YES/
 This is an additional Change.
 This is solved.
 This is the last conflict for merging and we have successfully solved it!
+This is for non-fast-forward merge.
