@@ -9,3 +9,4 @@ This shows that the bug-101 has been solved.
 TEST FOR STASH.
 test for stash2.
 test for Stash3.
+This shows that the bug-102 has been fixed.
