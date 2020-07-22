@@ -1,7 +1,7 @@
 Creating a new branch is quick.
 YES/
 78
-This shows that the last bug was fixed.
+This shows that the last bug was fixed and fixed again.
 This is an additional Change.
 This is solved.
 This shows that the last bug was fixed.
