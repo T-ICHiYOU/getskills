@@ -14,3 +14,4 @@ test for stash2.
 test for Stash3.
 This shows that the bug-102 has been fixed.
 This is the last time for test stash2.
+This is the last time for test stash3.
