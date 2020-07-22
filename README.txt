@@ -1,6 +1,6 @@
 Creating a new branch is quick.
-NO/
-78
+YES/
+9/10
 This shows that the last bug was fixed.
 This is an additional Change.
 This is solved.
