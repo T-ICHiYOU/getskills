@@ -8,3 +8,4 @@ This is for non-fast-forward merge.
 This shows that the bug-101 has been solved.
 TEST FOR STASH.
 test for stash2.
+test for Stash3.
